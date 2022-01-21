@@ -1,0 +1,1 @@
+# Task 2 Write a program that asks a user for their favourite number between 1 and 100 and then tells them a joke based on the number. You should use a minimum of 3 jokes.
